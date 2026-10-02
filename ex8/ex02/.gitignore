@@ -1,0 +1,11 @@
+# Environment files with secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+matrix_env/
+.venv/
